@@ -8,6 +8,12 @@ You can watch the full demonstration of the project and the stored procedure exe
 
 **[Watch Project Demo on Google Drive](https://drive.google.com/file/d/1uP79ZJwqIp9ssgsE-k59-s2heTbNrjlB/view?usp=sharing)**
 
+## 🗄️ Database Backup
+
+The SQL Server database backup (.bak) file used for this assessment can be downloaded from the link below:
+
+**[Download Database Backup (.bak) from Google Drive](https://drive.google.com/file/d/1M0mXAtG_iGvSShT1D0qkh9Tbi7i4_FeO/view?usp=sharing)**
+
 ## 🚀 Features
 
 - **Employee Activity Log**: Audit employee actions with flexible filtering.
